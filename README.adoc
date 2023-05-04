@@ -1,0 +1,3 @@
+= live-coding - Repository containing results from my live coding talks
+
+In this repository, you can find the individual results that I code during my live coding sessions.
